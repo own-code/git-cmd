@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 "player1"
 "new player1"
+=======
+"from branch newname"
+"player 2"
+>>>>>>> newname
