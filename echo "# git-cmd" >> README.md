@@ -1,1 +1,0 @@
-# Training commands of git
